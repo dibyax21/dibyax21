@@ -20,60 +20,48 @@
 
 ## 👨‍💻 About Me
 
-I am a **3rd-year B.Tech Artificial Intelligence & Machine Learning student** at **GEC Autonomous College, Bhubaneswar**, focused on applied AI engineering and intelligent systems development.
+I'm a **3rd-year B.Tech student in Artificial Intelligence & Machine Learning** at **GEC Autonomous College, Bhubaneswar**.
 
-I build practical AI systems that connect models, APIs, and applications to solve real-world problems. Rather than treating machine learning as isolated notebook scripts, I focus on the full lifecycle—from data preprocessing, feature engineering, and rigorous model evaluation to backend serving with FastAPI, containerization with Docker, and responsive client interfaces.
+Most of my work revolves around building practical AI software. A lot of machine learning projects stop at a Jupyter notebook with a high accuracy score, but I like taking things a step further—prepping the data, training and validating the model, wrapping it in a **FastAPI** backend, and connecting it to a real user interface or mobile app.
 
-- 🎓 **Academic Status:** 3rd-Year B.Tech AI & ML Student (GEC Autonomous College, Bhubaneswar)
-- 🧠 **Applied Focus:** Machine Learning, Deep Learning (ANN), Predictive Modeling & Evaluation
-- 👁️ **Computer Vision:** Real-Time Video Processing, YOLO Object Detection & MediaPipe Tracking
-- 🤖 **AI Agents & LLMs:** Multi-Agent Task Orchestration, Prompt Engineering & API Integration
-- ⚙️ **Backend & Serving:** Asynchronous REST APIs with FastAPI, WebSockets & Database Integration
-- 🚀 **Engineering Philosophy:** Turning research concepts and models into functional, production-oriented software
+- 🎓 **Studies:** 3rd Year B.Tech in AI & ML (GEC Autonomous College, Bhubaneswar)
+- 🧠 **What I enjoy building:** End-to-end ML pipelines, real-time Computer Vision tools, and LLM-powered multi-agent workflows
+- 🛠️ **How I work:** Write clean Python, benchmark models with real metrics (ROC-AUC, confusion matrices), containerize with Docker, and build responsive frontends (Flutter, Streamlit, Gradio)
+- 💡 **Mindset:** Ship working software, understand what happens under the hood, and keep learning
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I'm Focused On Right Now
 
-- **Applied Machine Learning:** Developing robust classification and regression pipelines with rigorous statistical evaluation (ROC-AUC, confusion matrices, cross-validation).
-- **Computer Vision:** Real-time spatial tracking, hazard detection, and stream processing with Ultralytics YOLOv11 and OpenCV.
-- **AI Agents & LLM Applications:** Multi-agent role coordination (Planner, Coder, Debugger), structured parsing, and tool-augmented workflows.
-- **Backend AI Systems:** Architecting low-latency FastAPI endpoints, request schemas with Pydantic, and database persistence with SQLAlchemy.
-- **Intelligent Application Delivery:** Integrating model inference into interactive Gradio portals, Streamlit dashboards, and cross-platform Flutter applications.
-- **Engineering Fundamentals:** Strengthening Data Structures & Algorithms, OOP principles, and clean system modularity.
-
----
-
-## 🔄 Engineering Workflow
-
-I approach AI engineering as an interconnected pipeline that moves systematically from raw data to deployed software:
-
-```
-┌─────────────────────────┐     ┌─────────────────────────────────────────┐     ┌────────────────────────────┐
-│  Problem Identification │ ──► │  Data Ingestion & Feature Engineering   │ ──► │ Model Training & Selection │
-└─────────────────────────┘     └─────────────────────────────────────────┘     └────────────────────────────┘
-                                                                                               │
-                                                                                               ▼
-┌─────────────────────────┐     ┌─────────────────────────────────────────┐     ┌────────────────────────────┐
-│  Container Deployment   │ ◄── │  Client UI (Flutter / Gradio / Web)     │ ◄── │ Scalable API Serving       │
-│  (Docker / Spaces)      │     │  Interactive Visualization & Feedback   │     │ (FastAPI / REST Endpoints) │
-└─────────────────────────┘     └─────────────────────────────────────────┘     └────────────────────────────┘
-```
-
-> **Core Objective:** Bridge the gap between Jupyter experimentation and production-ready intelligent software.
+- **Applied Machine Learning:** Building clean classification and regression pipelines, tuning hyperparameters, and evaluating models with ROC-AUC and error analysis.
+- **Computer Vision:** Running real-time object detection and hazard tracking using YOLOv11, OpenCV, and MediaPipe.
+- **AI Agents & LLMs:** Experimenting with multi-agent orchestration—splitting tasks into planning, coding, and debugging roles instead of relying on a single prompt.
+- **Backend & APIs:** Designing lightweight, asynchronous REST APIs with FastAPI, Pydantic schemas, and WebSockets.
+- **System Integration:** Packaging models into Docker containers and building interactive web portals with Gradio and Streamlit.
+- **Core Fundamentals:** Practicing Data Structures & Algorithms, OOP, and modular code architecture.
 
 ---
 
-## 🛠️ Technical Classification
+## 🔄 How I Build AI Projects
+
+I treat machine learning as a software engineering discipline, not just notebook scripting:
+
+> **Problem & Data** ➔ **Preprocessing & Feature Engineering** ➔ **Model Training & Validation** ➔ **FastAPI Backend** ➔ **Frontend UI (Flutter / Gradio / Streamlit)** ➔ **Docker Deployment**
+
+I focus on making sure every project can actually be run, tested, and evaluated by others.
+
+---
+
+## 🛠️ Tech Stack & Tooling
 
 <details open>
 <summary><b>1. 🐍 Languages & Core Programming</b></summary>
 <br/>
 
-- **Python:** Primary language for Machine Learning pipelines, backend services, vision processing, and automation scripts.
-- **JavaScript (ES6+):** Dynamic client-side application logic, DOM interactions, and API communication.
-- **Dart:** Cross-platform mobile client application development with Flutter.
-- **HTML5 & CSS3:** Semantic markup, responsive styling, and modern UI layouts.
+- **Python:** My primary language for machine learning, computer vision, data analysis, and backend APIs.
+- **JavaScript (ES6+):** For frontend interactions, asynchronous API requests, and web interfaces.
+- **Dart:** Building cross-platform mobile apps with Flutter.
+- **HTML5 & CSS3:** Clean, semantic structure and responsive web design.
 
 </details>
 
@@ -81,10 +69,10 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <summary><b>2. 🧠 AI & Machine Learning</b></summary>
 <br/>
 
-- **Core Paradigms:** Supervised Machine Learning, Deep Learning (Artificial Neural Networks / ANN), Predictive Modeling.
-- **Task Specializations:** Classification, Multi-variable Regression, Anomaly Detection, Feature Engineering, Feature Selection.
-- **Evaluation & Diagnostics:** Cross-Validation, ROC-AUC Analysis, Confusion Matrix Benchmarking, Precision-Recall Metrics, Explainable AI (Feature Importance).
-- **Inference & Serialization:** Model Serialization with Joblib and Pickle, Real-Time Inference Pipelines.
+- **Core Concepts:** Supervised Learning, Deep Learning (ANN), Predictive Modeling, Classification, Regression.
+- **Data & Features:** Data Cleaning, Feature Scaling, Encoding, Feature Selection, Handling Imbalanced Data.
+- **Evaluation & Diagnostics:** Cross-Validation, ROC-AUC Curves, Confusion Matrices, Precision/Recall, Feature Importance.
+- **Inference:** Model serialization with Joblib & Pickle, low-latency scoring pipelines.
 
 </details>
 
@@ -92,10 +80,10 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <summary><b>3. 🤖 AI Engineering & Generative AI</b></summary>
 <br/>
 
-- **Agentic Systems:** Multi-Agent Architectures, Role-Based Agent Orchestration (Planner, Coder, Debugger Agents).
-- **LLM Application Development:** OpenAI API Integration, Prompt Engineering, Context Feeding, Few-Shot Prompting.
-- **Structured Output & Tooling:** Regex-based Markdown code block extraction, Structured JSON responses, Fallback simulation modes.
-- **Multimodal AI:** Multimodal visual-context analysis and screen-level assistance automation.
+- **Agentic Systems:** Multi-Agent architectures, role-based workflows (Planner ➔ Coder ➔ Debugger).
+- **LLM Integration:** OpenAI API, prompt structuring, few-shot prompting, and context management.
+- **Structured Outputs:** Parsing markdown code blocks, schema-enforced JSON outputs, and offline mock fallbacks.
+- **Multimodal AI:** Integrating visual context, frame capture, and automated assistance.
 
 </details>
 
@@ -104,8 +92,8 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <br/>
 
 - **Frameworks & Models:** `OpenCV`, `Ultralytics YOLO (v8 / v11)`, `MediaPipe`, `Pillow (PIL)`.
-- **Techniques:** Real-Time Object Detection, Bounding Box Normalization, Frame-by-Frame Video Stream Processing.
-- **Specialized Vision Tasks:** Facial Presence Detection, Spatial Tracking, Real-Time Human Pose Estimation, Hazard/Incident Recognition.
+- **Techniques:** Real-time object detection, bounding-box normalization, live video stream analysis.
+- **Practical Applications:** Hazard and accident recognition, human pose tracking, and face presence detection.
 
 </details>
 
@@ -114,8 +102,8 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <br/>
 
 - **Libraries:** `Scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Joblib`.
-- **Environment:** `Jupyter Notebook`, Python Virtual Environments.
-- **Workflow Competencies:** Exploratory Data Analysis (EDA), Missing Value Imputation, Outlier Handling, Normalization & Standardization, Comparative Model Benchmarking.
+- **Environment:** `Jupyter Notebook`, virtual environments, CLI tooling.
+- **Workflows:** Exploratory Data Analysis (EDA), distribution checks, correlation heatmaps, baseline benchmarking.
 
 </details>
 
@@ -124,9 +112,9 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <br/>
 
 - **Frameworks:** `FastAPI`, `Flask`, `Starlette`.
-- **Architecture:** Asynchronous REST API Design, Request/Response Validation with `Pydantic`, ASGI Serving with `Uvicorn`.
-- **Security & Networking:** JWT Authentication (`python-jose`, `passlib`, `bcrypt`), CORS Middleware, Real-Time `WebSockets`.
-- **Data Access:** Object-Relational Mapping via `SQLAlchemy`, Session Management.
+- **Design:** Asynchronous REST endpoints, `Pydantic` models for data validation, ASGI serving with `Uvicorn`.
+- **Features:** WebSockets for live streaming, CORS handling, JWT authentication (`python-jose`, `passlib`, `bcrypt`).
+- **Data Access:** `SQLAlchemy` ORM and session management.
 
 </details>
 
@@ -134,9 +122,9 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <summary><b>7. 📱 Application & Web Development</b></summary>
 <br/>
 
-- **Mobile Development:** `Flutter`, `Dart` (cross-platform client interfaces).
-- **ML Web Interfaces:** `Gradio` (clinical & diagnostic portals), `Streamlit` (interactive predictive dashboards).
-- **Frontend Technologies:** Responsive Web Design, `Tailwind CSS`, Asynchronous Fetch APIs.
+- **Mobile:** `Flutter` with `Dart` for cross-platform interfaces.
+- **AI Portals:** `Gradio` for interactive clinical/model portals, `Streamlit` for data-heavy prediction apps.
+- **Frontend:** Responsive layouts, `Tailwind CSS`, async fetch handling.
 
 </details>
 
@@ -144,8 +132,8 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <summary><b>8. 🗄️ Databases</b></summary>
 <br/>
 
-- **Relational Databases:** `SQLite`, Structured Query Language (`SQL`).
-- **ORM & Data Layer:** `SQLAlchemy` declarative models, connection pooling configuration, relational schema design.
+- **Storage:** `SQLite`, relational `SQL` queries.
+- **ORM:** Declarative models, connection handling, and schema migrations with `SQLAlchemy`.
 
 </details>
 
@@ -153,30 +141,29 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 <summary><b>9. ⚙️ DevOps & Developer Tools</b></summary>
 <br/>
 
-- **Version Control:** `Git`, `GitHub` (branching, pull requests, release tracking).
-- **Containerization:** `Docker`, `Docker Compose` (multi-container orchestration).
-- **Tooling & Environments:** `VS Code`, `Postman` (API debugging), `Linux / Bash CLI`.
+- **Version Control:** `Git`, `GitHub` (commit hygiene, PRs, branch management).
+- **Containers:** `Docker`, `Docker Compose` for reproducible multi-service setups.
+- **Daily Drivers:** `VS Code`, `Postman`, `Linux / Bash CLI`.
 
 </details>
 
 <details>
-<summary><b>10. 🧩 CS & Software Engineering Competencies</b></summary>
+<summary><b>10. 🧩 CS & Engineering Foundations</b></summary>
 <br/>
 
-- **Core Foundations:** Data Structures & Algorithms, Object-Oriented Programming (OOP).
-- **Engineering Practices:** Modular Code Architecture, Separation of Concerns, Error Handling & Graceful Degradation.
-- **API Standards:** RESTful Conventions, Schema Validation, Comprehensive Codebase Documentation.
+- **Core Fundamentals:** Data Structures & Algorithms, Object-Oriented Programming (OOP).
+- **Software Practices:** Modular design, separation of concerns, defensive error handling, clear code documentation.
 
 </details>
 
 <details>
-<summary><b>11. 📚 Currently Learning</b></summary>
+<summary><b>11. 📚 Currently Learning & Exploring</b></summary>
 <br/>
 
-- **Advanced Machine Learning & Deep Learning:** Transformer architectures, attention mechanisms, and deep representation learning.
-- **Generative AI & LLM Systems:** Retrieval-Augmented Generation (RAG), vector embeddings, and autonomous agent tool-calling frameworks.
-- **Production AI & MLOps:** Containerized model serving at scale, model monitoring, and automated pipeline orchestration.
-- **System Design:** Scalable architecture patterns for high-throughput AI applications and advanced DSA problem-solving.
+- **Deep Learning & Transformers:** Attention mechanisms, fine-tuning principles, and sequence modeling.
+- **Modern GenAI:** Retrieval-Augmented Generation (RAG), vector stores, and tool-augmented agents.
+- **MLOps:** Model monitoring, containerized deployment workflows, and CI/CD for ML pipelines.
+- **System Design:** Scalable API patterns for AI backends and advanced algorithmic problem-solving.
 
 </details>
 
@@ -184,69 +171,73 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
 
 ## 🚀 Featured Projects
 
-### 👁️ Computer Vision & Real-Time AI
+### 👁️ Computer Vision & Real-Time Systems
 
 #### [SAERN — Swarm AI Emergency Response Network](https://github.com/dibyax21/SAERN)
-> **Autonomous disaster-response and resource-coordination ecosystem combining computer vision hazard detection and real-time backend orchestration.**
+> **An emergency response platform that pairs real-time vision analytics with instant responder coordination.**
 
-- **Computer Vision Pipeline:** Integrates **YOLOv11** and **OpenCV** for automated detection of critical hazards—including fires, vehicle collisions, structural collapse, and crowd density—across live video streams.
-- **Backend Architecture:** Built with **FastAPI** featuring asynchronous endpoints, **WebSockets** for real-time telemetry feeds, **JWT authentication**, and **SQLAlchemy** with **SQLite**.
-- **Containerization & Clients:** Configured with multi-stage **Docker** and `docker-compose.yml`, coupled with a cross-platform **Flutter** mobile client.
-- **Tech Stack:** `Python` • `FastAPI` • `Ultralytics YOLO` • `OpenCV` • `SQLAlchemy` • `SQLite` • `Docker` • `Flutter` • `WebSockets`
+- **What it does:** Uses **YOLOv11** and **OpenCV** to scan video feeds for road accidents, fires, structural damage, and crowd density. When a hazard is detected, it flags the incident and streams telemetry live to field responders.
+- **How it's built:**
+  - Fast, asynchronous **FastAPI** backend with **WebSockets** for live alert feeds
+  - **SQLAlchemy** ORM with **SQLite** for incident data persistence and user authentication (JWT)
+  - Cross-platform **Flutter** mobile client for field coordination
+  - Fully containerized with **Docker** and `docker-compose`
+- **Stack:** `Python` • `FastAPI` • `Ultralytics YOLO` • `OpenCV` • `SQLAlchemy` • `SQLite` • `Docker` • `Flutter` • `WebSockets`
 
 ---
 
 ### 🤖 AI Agents & Generative AI
 
 #### [Multi-Agent Dev Assistant](https://github.com/dibyax21/multi-agent-dev-assistant-web)
-> **Collaborative software development assistant orchestrating specialized autonomous agents for automated planning, synthesis, and code review.**
+> **An experimental multi-agent coding tool that splits software generation across specialized LLM roles.**
 
-- **Agent Orchestration:** Coordinates three distinct LLM agents in a sequential pipeline:
-  - **Planner Agent:** Decomposes natural-language user specifications into concrete technical execution steps.
-  - **Coder Agent:** Synthesizes structured source files adhering to the technical specification.
-  - **Debugger Agent:** Executes automated code reviews and static quality analysis on the generated output.
-- **API & Interface:** Powered by **FastAPI** and the **OpenAI API**, with intelligent regex-based code extraction, simulated offline fallback modes, and an interactive web interface.
-- **Tech Stack:** `Python` • `FastAPI` • `OpenAI API` • `Multi-Agent Orchestration` • `Prompt Engineering` • `JavaScript` • `Tailwind CSS`
+- **What it does:** Instead of relying on a single prompt to do everything, this system coordinates three dedicated agents in a pipeline:
+  1. **Planner Agent:** Breaks down user requests into concrete architecture steps.
+  2. **Coder Agent:** Writes the modular source code files based on the plan.
+  3. **Debugger Agent:** Reviews the generated code, checks best practices, and suggests improvements.
+- **How it's built:** Powered by **FastAPI** and the **OpenAI API**, with regex parsing to unpack markdown code into actual downloadable files, a clean **Tailwind CSS** web UI, and an offline mock simulator for local testing.
+- **Stack:** `Python` • `FastAPI` • `OpenAI API` • `Multi-Agent Orchestration` • `Prompt Engineering` • `JavaScript` • `Tailwind CSS`
 
 ---
 
 ### 🧠 Machine Learning & Decision Support
 
 #### [AI-Driven Breast Cancer Diagnostic Portal](https://github.com/dibyax21/breast-cancer-diagnostic)
-> **Clinical decision-support prototype benchmarking parallel Machine Learning and Deep Neural Networks on cellular biopsy parameters.**
+> **A clinical decision-support prototype benchmarking classical ML against an ANN on cytologic biopsy parameters.**
 
-- **Comparative Modeling:** Evaluates **Random Forest** classification against an **Artificial Neural Network (ANN)** baseline across standardized clinical features.
-- **Evaluation & Explainability:** Comprehensive model diagnostics incorporating **ROC-AUC curves**, **confusion matrices**, and **Explainable AI feature importance** to highlight key clinical risk indicators.
-- **Interactive Portal:** Real-time medical decision-support interface deployed using **Gradio**, enabling clinicians to input cytologic sliders and receive probabilistic risk assessments.
-- **Tech Stack:** `Python` • `Scikit-learn` • `Gradio` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
+- **What it does:** Compares the performance of a **Random Forest** baseline against an **Artificial Neural Network (ANN)** to classify breast masses as benign or malignant based on cellular features.
+- **Evaluation & Explainability:**
+  - Evaluated with **ROC-AUC curves** and **confusion matrices** to measure false positives/negatives
+  - Generates **feature importance charts** so users can see which clinical markers influenced predictions
+  - Interactive **Gradio** web app with sliders for real-time risk assessment
+- **Stack:** `Python` • `Scikit-learn` • `Gradio` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
 
 ---
 
 #### [Rainfall Prediction System](https://github.com/dibyax21/rainfall-app)
-> **Predictive meteorological forecasting application modeling regional precipitation patterns across India.**
+> **Regional rainfall forecasting application modeling meteorological data across India.**
 
-- **ML Pipeline:** End-to-end data processing, feature scaling, and predictive modeling utilizing **Scikit-learn**, serialized with **Joblib** for low-latency inference.
-- **Serving Architecture:** Dual-interface delivery featuring an interactive **Streamlit** dashboard for exploratory analysis alongside **FastAPI** inference endpoints.
-- **Tech Stack:** `Python` • `Scikit-learn` • `Streamlit` • `FastAPI` • `Pandas` • `Joblib`
+- **What it does:** Predicts precipitation patterns using historical weather records. Preprocesses regional data, trains a Scikit-learn model, and serializes it with Joblib for low-latency inference.
+- **How it's served:** Built with a dual interface—a **Streamlit** dashboard for exploratory visualization and a **FastAPI** backend for fast programmatic scoring.
+- **Stack:** `Python` • `Scikit-learn` • `Streamlit` • `FastAPI` • `Pandas` • `Joblib`
 
 ---
 
 #### [Car Price Prediction Engine](https://github.com/dibyax21/Car-Price-Prediction)
-> **End-to-end regression system estimating pre-owned automobile valuations.**
+> **End-to-end regression model estimating pre-owned car market values.**
 
-- **Regression Modeling:** Data cleaning, categorical feature encoding, and correlation analysis paired with hyperparameter-tuned **Random Forest Regression**.
-- **Deployment:** Packaged into a responsive web application served via **Flask** and Jinja templating.
-- **Tech Stack:** `Python` • `Scikit-learn` • `Flask` • `Pandas` • `NumPy`
+- **What it does:** Cleans and encodes vehicle sales data, analyzes feature correlations, and trains a tuned **Random Forest Regressor** to estimate fair vehicle prices. Deployed as a web app with **Flask** and Jinja templates.
+- **Stack:** `Python` • `Scikit-learn` • `Flask` • `Pandas` • `NumPy`
 
 ---
 
-### 🛡️ Independent AI Research & Prototype
+### 🛡️ Independent Research & Prototype
 
 #### ExamGuard AI *(Independent Project / Active Prototype)*
-> **Automated AI proctoring platform designed for secure and scalable online examinations.**
+> **An ongoing prototype exploring automated proctoring through multimodal vision signals.**
 
-- **Multimodal Vision & Audio Signals:** Exploratory system designed for continuous facial presence verification, gaze direction tracking, and audio anomaly detection during exam sessions.
-- **Human-in-the-Loop Philosophy:** Engineered as an evidence-gathering assistance platform providing objective visual logs and anomaly timestamps for human proctors, rather than automated definitive judgment.
+- **What it explores:** Tests real-time gaze direction estimation, facial presence tracking, and background audio anomaly detection during online exams.
+- **Philosophy:** Built as an assistant for human reviewers—generating timestamped visual evidence and anomaly logs rather than attempting to automate definitive cheating judgments.
 - **Focus Areas:** `Computer Vision` • `Multimodal AI` • `Real-Time Video Analytics` • `FastAPI`
 
 ---
@@ -259,19 +250,19 @@ I approach AI engineering as an interconnected pipeline that moves systematicall
   </a>
 </p>
 
-Visit my Hugging Face profile to explore hosted AI Spaces and interactive machine learning demos:
-- 🚀 **[SAERN Space](https://huggingface.co/spaces/Dibyaranjannayak21/SAERN):** Containerized Docker deployment of the Swarm AI Emergency Response Network.
-- 🔬 **Open-Source Exploration:** Continuous platform for hosting models, demo Spaces, and applied AI experiments.
+You can check out my Hugging Face profile for hosted demo spaces and ML experiments:
+- 🚀 **[SAERN Space](https://huggingface.co/spaces/Dibyaranjannayak21/SAERN):** Docker-based deployment of the Swarm AI Emergency Response Network.
+- 🧪 **Open-Source Work:** Where I share interactive ML demos, test spaces, and ongoing experiments.
 
 ---
 
-## 🔬 AI Engineering Interests
+## 🔬 AI Engineering Topics I Care About
 
-- **Applied Machine Learning & Deep Learning:** Tabular and structured modeling with strict error quantification and explainability.
-- **Computer Vision:** Edge-deployable real-time detection, tracking pipelines, and automated surveillance feeds with YOLO and OpenCV.
-- **Autonomous AI Agents:** Collaborative multi-agent communication, iterative reasoning loops, and tool-augmented LLM architectures.
-- **Model Evaluation & Explainability:** Transparent diagnostic tooling, boundary validation, ROC-AUC, and feature contribution analysis.
-- **Production AI Engineering:** Packaging ML models into containerized microservices, asynchronous REST APIs, and responsive user experiences.
+- **Practical Machine Learning:** Training reliable models, evaluating them with honest metrics, and avoiding data leakage.
+- **Edge & Real-Time Computer Vision:** Running low-latency detection and tracking with YOLO and OpenCV on video feeds.
+- **Multi-Agent Systems:** Structuring collaborative LLM agents with clear roles, tool calling, and feedback loops.
+- **Explainable AI:** Giving humans insight into *why* a model made a specific prediction (feature importance, error analysis).
+- **Full-Stack AI:** Wrapping models in clean APIs, building usable interfaces, and shipping reproducible Docker setups.
 
 ---
 
@@ -307,9 +298,9 @@ Visit my Hugging Face profile to explore hosted AI Spaces and interactive machin
 
 ## 🎯 Career Direction
 
-I am a **3rd-year B.Tech AIML student** actively building toward **AI/ML Engineer, Machine Learning Engineer, Computer Vision Engineer, AI Engineer, and Generative AI / LLM Engineer Intern** opportunities.
+I am a **3rd-year B.Tech AIML student** actively preparing for **AI/ML Engineer, Machine Learning Engineer, Computer Vision Engineer, and AI Engineer internship / entry-level roles**.
 
-I am particularly excited about engineering-driven teams building practical, end-to-end intelligent systems where models are integrated into robust APIs, containerized environments, and production-ready applications that solve concrete real-world challenges.
+If you're building systems that connect smart models to practical applications, I'd love to chat and contribute!
 
 ---
 
